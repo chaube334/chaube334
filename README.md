@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @chaube334
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chaube334/chaube334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Tripurari Chaube
+- 👀 I’m interested in Quality Department
+- 🌱 I’m currently working as Quality Engineer
+- 💞️ I’m looking to collaborate on Quality Department
+- 📫 How to reach me, sst.ch2001@gmail.com
